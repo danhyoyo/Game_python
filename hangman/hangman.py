@@ -8,7 +8,6 @@ allow_errors = 7
 guesses = []
 done = False
 
-
 while not done:
     check = True
     for letter in word:
